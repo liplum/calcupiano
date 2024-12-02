@@ -82,7 +82,7 @@ dependencies:
       url: https://github.com/liplum/DartPackage.git
       path: platform_safe_func
 
-  flame_audio: ^2.10.3
+  flame_audio: ^2.10.6
 dev_dependencies:
   flutter_test:
     sdk: flutter

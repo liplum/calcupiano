@@ -389,18 +389,18 @@ packages:
     dependency: transitive
     description:
       name: flame
-      sha256: e6873a8540a197a9bfe251e10c9e1f200329041d6e6d70df2cf38aa681cf2ef7
+      sha256: c02390443e40a2a9034ac867d0789ab32f215eba4779bff4655a7143eb3d75d0
       url: "https://pub.dev"
     source: hosted
-    version: "1.19.0"
+    version: "1.22.0"
   flame_audio:
     dependency: "direct main"
     description:
       name: flame_audio
-      sha256: a86839f1448bbf9e2cd9c5d396be8dfc745428a9d27db6dfcdd9680466d8370e
+      sha256: "656433a6a448dd74c1a10ae56fc7fb389d5df89cb6a5038870c2793e1f0ddc99"
       url: "https://pub.dev"
     source: hosted
-    version: "2.10.3"
+    version: "2.10.6"
   flutter:
     dependency: "direct main"
     description: flutter
